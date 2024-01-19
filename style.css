@@ -1,0 +1,11 @@
+#benefits img{
+    border-radius: 30px;
+    margin: 5px;
+
+}
+
+.container #benefits{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
