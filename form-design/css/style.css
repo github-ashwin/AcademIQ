@@ -589,4 +589,9 @@ label.valid {
     margin-right: 0px;
     margin-bottom: 10px; } }
 
+    .signin-content,.signup-content
+    {
+      margin-top: 50px;
+    }
+
 /*# sourceMappingURL=style.css.map */
